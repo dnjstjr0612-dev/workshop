@@ -1,0 +1,10 @@
+data / NEMO
+
+tar -xzf /data4/NEMO/nemo_500_env.tar.gz =C ${HOME}
+
+ssh leewonseok@acc.yonsei.ac.kr
+ㅂ980612!
+
+apple
+01071571063
+Qqq980612!
